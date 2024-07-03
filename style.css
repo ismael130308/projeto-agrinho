@@ -1,0 +1,42 @@
+*{
+
+    padding: 0;
+    margin: 0;    
+    }
+    
+header{
+        background-color: #0aa33d;
+        color: rgb(0, 0, 0);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 28px 0;
+        }
+    
+        header
+    .cabeçalho{
+    
+        width: 200%;
+        font-size: 28px;
+    }
+    
+    .cabeçalho-lista-ilustração{
+        
+        display: inline;
+        margin: 0 28px;
+        font-size: 20px;
+    }
+    
+    .imagem-agrinho{
+    
+        width: 12%;
+    }
+      
+    .imagem-agrinho{
+        background-color: #383D58;
+        color: white;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 24px 0;
+        }
